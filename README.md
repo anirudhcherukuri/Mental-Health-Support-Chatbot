@@ -12,7 +12,7 @@ This project is an empathetic mental health support chatbot built using **Flan-T
 
 ##  Screenshot
 
-![Mental Health Chatbot Screenshot](./screenshot.png)
+![Mental Health Chatbot Screenshot](Screenshot 2025-07-07 113335.png)
 
 ##  Installation
 
